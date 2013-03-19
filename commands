@@ -1,1 +1,2 @@
-bash /home/work/hefei/mywork/simple_nm_sender/ch.sh
+sleep 0.1
+sleep 0.2
