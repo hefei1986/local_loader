@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-#-*- coding: utf-8 -*-
+#!/usr/bin/env python2.7
+# coding: utf-8
 # author: hefei1986@gmail.com
 
 import os
@@ -219,3 +219,4 @@ def test():
 
 if "__main__" == __name__:
     main()
+
